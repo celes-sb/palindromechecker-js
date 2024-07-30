@@ -1,6 +1,6 @@
 # Palindrome Checker
 
-https://celes-sb.github.io/palindrome-checker-js/
+https://celes-sb.github.io/palindromechecker-js/
 
 Part of the freeCodeCamp.org Curriculum  
 JavaScript Algorithms and Data Structures Certification
