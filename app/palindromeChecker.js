@@ -20,7 +20,7 @@ function PalindromeChecker() {
     const isPalindrome =
       cleanedInput === cleanedInput.split("").reverse().join("");
     setResult(
-      `${textInput} is ${isPalindrome ? "a palindrome" : "not a palindrome"}`
+      `"${textInput}" is ${isPalindrome ? "a palindrome" : "not a palindrome"}`
     );
   };
 
