@@ -13,10 +13,12 @@ export default function Home() {
           Enter in text to check for a palindrome:
         </div>
       </div>
-      <p className={styles.description}>
-        A <i>palindrome</i> is a word or sentence that's spelled the same way
-        both forward and backward, ignoring punctuation, case, and spacing.
-      </p>
+      <div className={styles.description}>
+        <p className={styles.card}>
+          A <i>palindrome</i> is a word or sentence that's spelled the same way
+          both forward and backward, ignoring punctuation, case, and spacing.
+        </p>
+      </div>
       <PalindromeChecker />
       <footer className={styles.footer}>
         <a
