@@ -15,7 +15,7 @@ export default function Home() {
       </div>
       <div className={styles.description}>
         <p className={styles.card}>
-          A <i>palindrome</i> is a word or sentence that's spelled the same way
+          A <i>palindrome</i> is a word or sentence that&apos;s spelled the same way
           both forward and backward, ignoring punctuation, case, and spacing.
         </p>
       </div>
